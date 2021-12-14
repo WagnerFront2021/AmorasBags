@@ -1,16 +1,28 @@
 body {
 
-    background-color: plum;
+    background-image: url("../Imagens/PAISAGEM\ I.JPG");
+    background-repeat: no-repeat;
+    background-size: 1920px 960px;
+}
+label {
+    color: white;
+   
 }
 
 h1 {
     padding: 5px 40px;
     margin-top: 20px;
     border-radius: 10px;
-    color:rgb(122, 79, 163);
+    color: whitesmoke;
     text-align: center;
     border-style: groove;
     margin: 25px 50px;
+}
+h2 {
+    color: white;
+}
+p , a {
+    color: white;
 }
 
 footer { 
